@@ -1,3 +1,3 @@
 # PracticeGIT
-This is just for practicing GIT
+This is just for practicing GIT <br>
 author - Roshan
